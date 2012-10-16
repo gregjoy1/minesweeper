@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="startgame">Start The Game</string>
+    <string name="exitgame">Quit The Game</string>
+    <string name="imageaccess">Minesweeper logo</string>
+    <string name="difficultyeasy">Easy - small grid</string>
+    <string name="difficultymedium">Medium - medium grid</string>
+    <string name="difficultyhard">Hard - large grid</string>
+    <string name="minedensityprompt">Please select the mine density.</string>
+
+</resources>
